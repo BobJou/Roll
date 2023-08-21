@@ -10,3 +10,4 @@ git init -> inicia um repositório git
 
 git remote add origin URL -> para linkar o repositorio local a um remoto
 
+git commit -m "commit inicial" -> faz o commit
