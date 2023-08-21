@@ -1,0 +1,12 @@
+git clone -> clona um repositorio git existente
+
+git commit -> grava as alterações no repositorio
+
+git pull -> puxa as alterações do server e mescla com o seu
+
+git push -> empurra as alterações para o repositorio remoto
+
+git init -> inicia um repositório git
+
+git remote add origin URL -> para linkar o repositorio local a um remoto
+
