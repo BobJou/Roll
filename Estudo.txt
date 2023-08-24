@@ -4,7 +4,7 @@ git commit -> grava as alterações no repositorio
 
 git pull -> puxa as alterações do server e mescla com o seu
 
-git push -> empurra as alterações para o repositorio remoto
+git push origin main-> empurra as alterações para o repositorio remoto
 
 git init -> inicia um repositório git
 
@@ -13,3 +13,7 @@ git remote add origin URL -> para linkar o repositorio local a um remoto
 git commit -m "commit inicial" -> faz o commit
 
 git add . -> adiciona todos para o commit
+
+rm -rf -> remove diretorio e o que rstiver dentro
+
+git log -> mostra todos os commits anterioores
